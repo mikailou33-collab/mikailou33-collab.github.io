@@ -7,4 +7,15 @@
       "75:C0:9E:97:9F:C6:94:21:6D:A6:68:DE:F0:7F:6E:6B:18:51:6F:84:BF:9F:30:9D:93:88:B8:8C:AE:5A:93:D7"
     ]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.mikailou33_collab.chauffeur",
+    "sha256_cert_fingerprints": [
+      "75:C0:9E:97:9F:C6:94:21:6D:A6:68:DE:F0:7F:6E:6B:18:51:6F:84:BF:9F:30:9D:93:88:B8:8C:AE:5A:93:D7",
+      "6D:0E:0C:6E:2B:77:BC:D7:2D:F7:F0:3F:89:AB:93:1C:7C:A2:2F:11:EB:A8:B3:D8:60:C0:E8:06:D3:E4:EE:D2"
+    ]
+  }
 }]
